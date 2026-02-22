@@ -8,7 +8,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Save the following in Parquet format:
+Saves the following in Parquet format:
 
 - Historical prices for US stocks.
 - Historical prices for US indices.
